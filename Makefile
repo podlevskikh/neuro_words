@@ -1,4 +1,4 @@
-PROJECT?=coursera
+PROJECT?=pet
 APP?=neuro_word
 PORT?=80
 PORT_APP?=7784
