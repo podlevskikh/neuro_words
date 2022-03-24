@@ -1,4 +1,4 @@
-module coursera/neuro_word
+module neuro_word
 
 go 1.14
 

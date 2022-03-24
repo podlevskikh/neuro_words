@@ -1,7 +1,7 @@
 package main
 
 import (
-	"coursera/neuro_word/model/neuro"
+	"neuro_word/model/neuro"
 	"fmt"
 	"math"
 	"math/rand"
